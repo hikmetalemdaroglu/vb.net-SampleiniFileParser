@@ -1,0 +1,15 @@
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\SampleiniFileParser.vbproj.AssemblyReference.cache
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\SampleiniFileParser.Resources.resources
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\SampleiniFileParser.vbproj.GenerateResource.cache
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\SampleiniFileParser.vbproj.CoreCompileInputs.cache
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\bin\Debug\SampleiniFileParser.exe.config
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\bin\Debug\SampleiniFileParser.exe
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\bin\Debug\SampleiniFileParser.pdb
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\bin\Debug\SampleiniFileParser.xml
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\bin\Debug\IniFile.dll
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\bin\Debug\IniFile.pdb
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\bin\Debug\IniFile.xml
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\Samplein.B1C0B520.Up2Date
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\SampleiniFileParser.exe
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\SampleiniFileParser.xml
+D:\LiberKey\MyDocuments\source\repos\SampleiniFileParser\SampleiniFileParser\obj\Debug\SampleiniFileParser.pdb
